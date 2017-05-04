@@ -1,0 +1,28 @@
+{
+    "content": [
+        {
+            "heading": "Study What?",
+            "content": "CS major cuz of the swag. I also do engineering for fun.",
+            "extra": '<img src="images/%5ECA11AE316448477A6A41FCDDFEACA629EF46664FEFB6733933%5Epimgpsh_fullsize_distr.jpg" />'
+        },
+        {
+            "heading": "Likes",
+            "content": "Lots of K-pop and K-dramas. DIM SUM!",
+            "extra"
+        },
+        {
+            "heading": "What I Know?",
+            
+        }
+    ]
+}
+
+
+<h3>Study What?</h3>
+            <p>CS major cuz of the swag. I also do engineering for fun.</p> <img src="images/%5ECA11AE316448477A6A41FCDDFEACA629EF46664FEFB6733933%5Epimgpsh_fullsize_distr.jpg" />
+            <h3>Likes</h3>
+            <p>Lots of K-pop and K-dramas. DIM SUM!</p>
+            <h3>What I Know?</h3>
+            <p>Java, Python, JavaScript, HTML/CSS, and limited Matlab.</p>
+            <h3>Something</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum aperiam iste sed incidunt maxime suscipit cupiditate minima, autem impedit nostrum dignissimos repellat laboriosam quisquam eos commodi recusandae, quo, ipsam maiores.</p>
